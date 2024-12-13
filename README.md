@@ -1,1 +1,1 @@
-This is a general LMS(library management system) ,to give an overview of LMS .There are 2 roles, User and Adim .Adim can ADD,DELETE ,VIEW and SEARCH books . user can View and search book. you can add addittional functionalities of your own choice.
+This is a general LMS(library management system) ,to give an overview of LMS .There are 2 roles, User and Adim .Adim can ADD,DELETE ,VIEW and SEARCH books where as, user can View and search book.You can add addittional functionalities of your own choice.Actually this is project in java
